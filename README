@@ -14,5 +14,7 @@ output. It offers three types of libnotify notification - either "Tests pass",
 version, we use the standard GNOME icons for errors and information. They are a
 bit dull, but they work.
 
+Dependencies: Python 2.4+, libnotify, pynotify
+
 The original is sbt-growltest which uses OS X's Growl:
 http://github.com/tommorris/sbt-growltest

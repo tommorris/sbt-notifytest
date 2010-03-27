@@ -1,4 +1,4 @@
-sbt-notifytest: Growl autotesting for Scala with Specs
+sbt-notifytest: libnotify autotesting for Scala with Specs
 
 I'm using Scala with simple-build-tool and Specs. In Ruby, there is a tool
 called ZenTest autotest which does what sbt ~ test does (i.e. runs a test loop
